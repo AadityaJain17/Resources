@@ -1,21 +1,21 @@
 # Resources
 
-#JS
-CLEVER PROGRAMMER: https://www.youtube.com/@CleverProgrammer
+##JS
+###CLEVER PROGRAMMER: https://www.youtube.com/@CleverProgrammer<br>
+<br>
+##React
+###PedroTech: https://www.youtube.com/@PedroTechnologies<br>
 
-#React
-PedroTech: https://www.youtube.com/@PedroTechnologies
+##Data Science, Analysis, Machine Learning 
+###CodeBasics: https://www.youtube.com/@codebasics<br>
+###Krish Naik: https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe<br>
 
-#Data Science, Analysis, Machine Learning 
-CodeBasics: https://www.youtube.com/@codebasics
-Krish Naik: https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
+##DSA:
+###Striver: https://www.youtube.com/@striver_79<br>
+###Love Babbar: https://www.youtube.com/@LoveBabbar<br>
+###Kunal Kushwaha: https://www.youtube.com/@KunalKushwaha<br>
+###Abdul Bari: https://www.youtube.com/@abdul_bari<br>
 
-DSA:
-Striver: https://www.youtube.com/@striver_79
-Love Babbar: https://www.youtube.com/@LoveBabbar
-Kunal Kushwaha: https://www.youtube.com/@KunalKushwaha
-Abdul Bari: https://www.youtube.com/@abdul_bari
-
-Extra:
-https://roadmap.sh/
+##Extra:
+###Roadmap: https://roadmap.sh/
 
